@@ -1,4 +1,7 @@
-Tryme
+TryMe
 =====
 
-This is your place to try everything github. fork fetch push pull commit , everything
+This is your place to try everything GITHUB. 
+
+
+FORK  FETCH  PUSH   PULL  COMMIT ... and everything else :)
