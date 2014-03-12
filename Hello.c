@@ -4,8 +4,8 @@
 
 int main()
 {
-    printf("Hello World")
-    
+    printf("Hello World!");
+    printf("\nFirst Test Statement Added!");
     return 0;
     
 }
